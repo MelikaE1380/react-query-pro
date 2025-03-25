@@ -16,6 +16,8 @@ function App() {
 
       <div>@@@@@@@@@@@@@featureOnotherPerson</div>
       <div>&&&&&&&&&&&&&&&&&&feature1</div>
+
+      <div>add react query first commit</div>
     </div>
   );
 }
