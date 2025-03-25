@@ -13,6 +13,8 @@ function App() {
         change'exactly this sentence' on develop and then switch to master and
         apply develop changes on master
       </div>
+
+      <div>@@@@@@@@@@@@@featureOnotherPerson</div>
     </div>
   );
 }
